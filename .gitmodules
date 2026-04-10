@@ -1,0 +1,30 @@
+[submodule "Adarsh-sentinelnet-app"]
+	path = Adarsh-sentinelnet-app
+	url = https://github.com/adarsh-9402/sentinelnet_app
+[submodule "ChandraPrakash-SentinelNet"]
+	path = ChandraPrakash-SentinelNet
+	url = https://github.com/ChandraPrakash1486/SentinelNet.git
+[submodule "ChaitanyaValli-SentinelNet"]
+	path = ChaitanyaValli-SentinelNet
+	url = https://github.com/Chaitanya-Valli/intrusion-detection-system.git
+[submodule "Rutuja-IDS"]
+	path = Rutuja-IDS
+	url = https://github.com/RutuuG/AI-Network-Intrusion-Detection-System
+[submodule "DanielWesley-SentinelNet-AI"]
+	path = DanielWesley-SentinelNet-AI
+	url = https://github.com/Daniel-wesley-06/SentinelNet-AI
+[submodule "Anushka-SentinelNet-IDS"]
+	path = Anushka-SentinelNet-IDS
+	url = https://github.com/Anushka-1431/SentinelNet-IDS.git
+[submodule "Yeshaswini-IDS"]
+	path = Yeshaswini-IDS
+	url = https://github.com/yeshaswiniarjula/IDS_project
+[submodule "Lasya-CyberAttackDetection"]
+	path = Lasya-CyberAttackDetection
+	url = https://github.com/lasyasomarajulasya-lang/cyber-attack-detection
+[submodule "DanielSunny-NIDS"]
+	path = DanielSunny-NIDS
+	url = https://github.com/DanielpSunny/SentinelNet-AI-Powered-Network-Intrusion-Detection-System-NIDS-
+[submodule "Sandeep-NIDS"]
+	path = Sandeep-NIDS
+	url = https://github.com/sandeepsv8055/SentinelNet-AI-Based-Network-Intrusion-Detection-System
